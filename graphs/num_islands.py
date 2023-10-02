@@ -1,5 +1,4 @@
 def numIslands(grid):
-        
         # DFS Helper
         def explore(grid, row, col, seen):
             # Bound Checking
